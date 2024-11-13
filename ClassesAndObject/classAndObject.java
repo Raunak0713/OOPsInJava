@@ -19,7 +19,7 @@ class Car {
   }
 }
 
-public class Main{
+public class classAndObject{
   public static void main(String[] args) {
     Car c1 = new Car();
     c1.color = "Red";
